@@ -15,7 +15,7 @@ The Airport Management System allows users to perform various operations such as
 
 ## How to Use
 
-1. Compile the `Airport.cpp` file using a C++ compiler.
+1. Compile the `Sourcecode.cpp` file using a C++ compiler.
 2. Run the executable file generated after compilation.
 3. Follow the on-screen prompts to perform various operations like traversal, searching, insertion, and deletion of flight details.
 
@@ -23,6 +23,6 @@ The Airport Management System allows users to perform various operations such as
 
 - C++ compiler
 
-## License
+## Contributing
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions are welcome! If you would like to contribute to this project, feel free to submit a pull request.
